@@ -1,0 +1,145 @@
+{
+    "sessions": [
+        {
+            "date": "2025-04-10 09:22",
+            "total_cards": 12,
+            "correct_answers": 4,
+            "card_results": {
+                "Who painted the Mona Lisa?": false,
+                "Who discovered penicillin?": false,
+                "Which element has the symbol 'O'?": false,
+                "What is the capital of Japan?": false,
+                "What is the freezing point of water in Celsius?": false,
+                "What is the capital of Australia?": false,
+                "Who wrote 'Romeo and Juliet'?": false,
+                "What is the largest planet in our solar system?": true,
+                "In which year did World War II end?": false,
+                "What year did the Titanic sink?": true,
+                "What is the smallest prime number?": true,
+                "What is the atomic number of carbon?": true
+            }
+        }
+    ],
+    "cards": {
+        "What year did the Titanic sink?": {
+            "total_attempts": 1,
+            "correct_attempts": 1,
+            "consecutive_correct": 1,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "What is the capital of Japan?": {
+            "total_attempts": 1,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "Which element has the symbol 'O'?": {
+            "total_attempts": 1,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "Who wrote 'Romeo and Juliet'?": {
+            "total_attempts": 1,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "What is the largest planet in our solar system?": {
+            "total_attempts": 1,
+            "correct_attempts": 1,
+            "consecutive_correct": 1,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "What is the square root of 144?": {
+            "total_attempts": 0,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": null
+        },
+        "In which year did World War II end?": {
+            "total_attempts": 1,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "What is the chemical formula for water?": {
+            "total_attempts": 0,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": null
+        },
+        "Who painted the Mona Lisa?": {
+            "total_attempts": 1,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "What is the smallest prime number?": {
+            "total_attempts": 1,
+            "correct_attempts": 1,
+            "consecutive_correct": 1,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "Which planet is known as the Red Planet?": {
+            "total_attempts": 0,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": null
+        },
+        "What is the capital of Australia?": {
+            "total_attempts": 1,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "What is the largest organ in the human body?": {
+            "total_attempts": 0,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": null
+        },
+        "Who discovered penicillin?": {
+            "total_attempts": 1,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "What is the freezing point of water in Celsius?": {
+            "total_attempts": 1,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": "2025-04-10 09:22"
+        },
+        "Who was the first person to walk on the moon?": {
+            "total_attempts": 0,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": null
+        },
+        "What is the currency of Japan?": {
+            "total_attempts": 0,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": null
+        },
+        "What is the sum of angles in a triangle?": {
+            "total_attempts": 0,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": null
+        },
+        "Who is the author of 'To Kill a Mockingbird'?": {
+            "total_attempts": 0,
+            "correct_attempts": 0,
+            "consecutive_correct": 0,
+            "last_seen": null
+        },
+        "What is the atomic number of carbon?": {
+            "total_attempts": 1,
+            "correct_attempts": 1,
+            "consecutive_correct": 1,
+            "last_seen": "2025-04-10 09:22"
+        }
+    }
+}
